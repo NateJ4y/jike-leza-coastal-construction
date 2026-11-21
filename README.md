@@ -23,7 +23,7 @@ npm run preview
 ## Before launch
 - Replace curated architectural photography with approved Jikeleza project photography.
 - Add the company's official NHBRC registration number/certificate and confirm the exact public wording of its registration status.
-- Connect the inquiry form to the company's preferred CRM or form endpoint. It currently opens a prefilled email draft as a no-backend fallback.
+- Connect the inquiry form to the company's preferred CRM or form endpoint. It currently prepares a WhatsApp message as a no-backend fallback.
 - Generate and add the official vCard/contact QR code.
 - Confirm the published 7-year workmanship warranty terms and exclusions with the company.
 - Add final project names, locations and captions after client approval.
